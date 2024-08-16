@@ -1,0 +1,14 @@
+/workspace/MyApp/bin/Debug/net8.0/MyApp
+/workspace/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/workspace/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/workspace/MyApp/bin/Debug/net8.0/MyApp.dll
+/workspace/MyApp/bin/Debug/net8.0/MyApp.pdb
+/workspace/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/workspace/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/workspace/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/workspace/MyApp/obj/Debug/net8.0/MyApp.dll
+/workspace/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/workspace/MyApp/obj/Debug/net8.0/MyApp.pdb
+/workspace/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/workspace/MyApp/obj/Debug/net8.0/ref/MyApp.dll

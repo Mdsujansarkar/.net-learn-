@@ -1,0 +1,14 @@
+docker build -t csharp-dev-env .
+docker run -it --rm -v $(pwd):/workspace csharp-dev-env
+Explanation:
+
+-it: Runs the container in interactive mode with a terminal.
+--rm: Automatically removes the container when it stops.
+-v $(pwd):/workspace: Mounts your current directory to the /workspace directory inside the container, so any changes made inside the container are reflected on your host machine.
+csharp-dev-env: The name of the Docker image you created.
+
+dotnet new console -o MyApp
+cd MyApp
+dotnet run
+
+
